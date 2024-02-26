@@ -1,16 +1,5 @@
 import Calculator from "./Calculator.js";
 
-// 1. click a number  DONE
-// 2. click clear button
-// 3. click delete button
-// 4. click an operation 
-  // a. + (add)
-  // b. - (subtract)
-  // c. * (multiply)
-  // d. / (divide)
-// 5. click the period button DONE
-// 6. click equals
-
 const primaryOperandDisplay = document.querySelector("[data-primary-operand");
 const secondaryOperandDisplay = document.querySelector("[data-secondary-operand]");
 const operandDisplay = document.querySelector("[data-operation]");
